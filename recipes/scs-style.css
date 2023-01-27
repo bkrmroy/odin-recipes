@@ -1,0 +1,12 @@
+
+body{
+    font-family: Verdana, Arial, sans-serif;
+}
+h1, h2{
+    color: #643929;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    height: 512px;
+    width: auto;
+}
